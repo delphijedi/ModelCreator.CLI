@@ -1,4 +1,4 @@
-﻿class ModelCreator
+﻿class ModelCreatorCLI
 {
     public static void Main(string[] args) 
     { 
