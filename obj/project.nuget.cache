@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "my6IDznjhk2dWm+iOIqgLVEPOT9t3bImqnxs7ugdtEFb90HhnfIN+4qD4SjRXG1PfeuXB2t0E5uTyzCDsOpSQQ==",
+  "dgSpecHash": "SqlTxUWJVHVhkgrthqjSsOXR1i6D5vm6MAphrA5JucxYbzduWGO/JXiB5BsviegjmubUrC3Hv2BkNR7FfupKRQ==",
   "success": true,
   "projectFilePath": "E:\\Development\\C#\\ModelCreator.CLI\\ModelCreator.CLI\\ModelCreator.CLI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Luke Blyth\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

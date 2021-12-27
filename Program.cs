@@ -8,6 +8,12 @@
             Environment.Exit(0);
         }
         var command = args[0];
+        if (!commandMap.ContainsKey(command))
+	{
+		Console.WriteLine("Invalid command");
+	}
+
+	commandMap[command](args.Skip(1).ToArray());
 
     }
 

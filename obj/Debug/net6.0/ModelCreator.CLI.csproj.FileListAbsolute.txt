@@ -13,3 +13,5 @@ E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreato
 E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ref\ModelCreator.CLI.dll
 E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.pdb
 E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.genruntimeconfig.cache
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\CommandLine.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.csproj.CopyComplete
