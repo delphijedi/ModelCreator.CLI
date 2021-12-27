@@ -1,0 +1,15 @@
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\ModelCreator.CLI.exe
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\ModelCreator.CLI.deps.json
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\ModelCreator.CLI.runtimeconfig.json
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\ModelCreator.CLI.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\ref\ModelCreator.CLI.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\ModelCreator.CLI.pdb
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.csproj.AssemblyReference.cache
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.AssemblyInfoInputs.cache
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.AssemblyInfo.cs
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.csproj.CoreCompileInputs.cache
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ref\ModelCreator.CLI.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.pdb
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.genruntimeconfig.cache
