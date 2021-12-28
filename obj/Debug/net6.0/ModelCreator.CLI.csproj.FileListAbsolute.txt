@@ -15,3 +15,15 @@ E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreato
 E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.genruntimeconfig.cache
 E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\CommandLine.dll
 E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\obj\Debug\net6.0\ModelCreator.CLI.csproj.CopyComplete
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Development\C#\ModelCreator.CLI\ModelCreator.CLI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
